@@ -912,10 +912,6 @@ export default function App() {
           <div className="absolute inset-0 opacity-10" style={{ backgroundImage: "radial-gradient(circle at 20% 50%, #ffffff 0%, transparent 50%), radial-gradient(circle at 80% 20%, #f59e0b 0%, transparent 40%)" }} />
           <div className="relative max-w-6xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
             <div className="max-w-3xl">
-              <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/20 text-white text-xs font-medium mb-6 backdrop-blur-sm">
-                <span className="w-1.5 h-1.5 rounded-full bg-amber-400" />
-                Massachusetts Pilot — Spring 2026
-              </div>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-tight mb-4" style={{ fontFamily: "Fraunces, serif" }}>
                 Community Benefits{" "}
                 <span style={{ color: "#fbbf24" }}>Agreement</span>{" "}
